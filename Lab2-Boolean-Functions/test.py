@@ -23,7 +23,7 @@ class TruthTableTest(unittest.TestCase):
 			[False, True, True, True],
 			[False, True, False, False],
 			[False, False, True, True],
-			[False, False, False, False]
+			[False, False, False, True]
 		]
 
 		table = []
